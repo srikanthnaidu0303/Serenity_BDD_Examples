@@ -1,6 +1,6 @@
 FUNCTIONS - Excercise Code Written
 ========================================
-BEAN Counting
+BEAN Counting - new code
 ===================
 
 
