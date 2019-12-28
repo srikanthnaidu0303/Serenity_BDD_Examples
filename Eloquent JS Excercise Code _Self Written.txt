@@ -1,0 +1,25 @@
+FUNCTIONS - Excercise Code Written
+========================================
+BEAN Counting
+===================
+
+
+
+function countBs(string){
+  return countChar(string, "B");
+}
+
+function countChar(string, letter){
+  let count1 = 0;
+  for(let i = 0; i<=string.length; i+=1){
+    
+    if(string[i] == letter){
+      count1+=1;
+    }
+   }
+   return count1;
+}
+console.log(countBs("BBBC"));
+// → 2
+console.log(countChar("kakkerlak", "k"));
+// → 4
