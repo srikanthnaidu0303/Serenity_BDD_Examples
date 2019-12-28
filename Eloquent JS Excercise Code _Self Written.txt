@@ -1,7 +1,9 @@
 FUNCTIONS - Excercise Code Written
 ========================================
 BEAN Counting - new code
-===================
+
+Changing the code in my new branch
+========================================
 
 
 
